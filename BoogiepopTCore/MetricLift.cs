@@ -148,7 +148,7 @@ namespace BoogiepopTCore
         /// Norm(prf)^2 - StandardInnerProduct(IndexedDistance(C, D), prf).
         /// </returns>
         /// <remarks>
-        /// This is always non-negative, see report of Boogiepop Core for a proof.
+        /// This is always non-negative, see report of BoogiepopT Core for a proof.
         /// </remarks>
         public TRealML CompareToPRF(TObj C, TObj D)
         {
