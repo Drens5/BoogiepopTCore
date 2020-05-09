@@ -3,7 +3,7 @@ A class library containing general methods, structure and algorithms for recomme
 Started as a generalization of the methods used in [ReBoogiepopT](https://github.com/Drens5/ReBoogiepopT).
 
 ## Documentation / Reference
-Currently a mathematical documentation / reference of BoogiepopTCore is being made, check back soon.
+[Mathematical Documentation of BoogiepopT Core](https://github.com/Drens5/BoogiepopTCore/blob/master/BoogiepopTCore.pdf).
 
 ## Short Synopsis of Current Methods
 ### Extract Metric
